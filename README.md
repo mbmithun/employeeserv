@@ -48,7 +48,7 @@ POST /v1/bfs/employees
     "date_of_birth": "1994-01-01",		// format - yyyy-MM-dd
     "address": {
         "line1": "line1",
-		"line2": "line2"				// optional field
+	"line2": "line2",			// optional field
         "city": "Bengaluru",
         "state": "Karnataka",
         "country": "India",
